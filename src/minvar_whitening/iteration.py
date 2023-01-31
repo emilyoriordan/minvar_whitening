@@ -1,5 +1,4 @@
-from cv2 import moments
-import min_var.poly as mvp
+import minvar_whitening.poly as mvp
 import matplotlib.pyplot as plt
 import numpy as np
 import sympy as sym
