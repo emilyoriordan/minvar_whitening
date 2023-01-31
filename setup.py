@@ -4,7 +4,7 @@ import unittest
 import doctest
 
 # Read in the version number
-exec(open('src/min_var/version.py', 'r').read())
+exec(open('src/minvar_whitening/version.py', 'r').read())
 
 requirements = ["numpy"]
 
